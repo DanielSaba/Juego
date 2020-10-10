@@ -1,0 +1,16 @@
+
+.choice{
+
+border: 1px solid lightgrey ;
+padding: 10px;
+cursor: pointer;
+border-radius: 5px;
+
+}
+.time{
+	color: brown;
+}
+
+*{
+	text-align: center;
+}
